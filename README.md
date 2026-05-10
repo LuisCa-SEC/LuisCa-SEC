@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Luis Carlos Elizondo Sancho👋
 
-<!--
-**LuisCa-SEC/LuisCa-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring SOC Analyst and Cloud Security Engineer focused on building practical cybersecurity skills through hands-on labs, networking, Linux, and defensive security learning.
 
-Here are some ideas to get you started:
+## Currently Learning
+- TryHackMe Pre-Security
+- Linux Fundamentals
+- Networking Basics
+- Hawks Academy Cyber01
+- Google Cybersecurity Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+- SOC Analyst
+- Blue Team
+- Cloud Security Engineer
+
+## Certifications in Progress
+- ISC2 Certified in Cybersecurity (CC)
+- Google Cybersecurity Certificate
+- Microsoft AZ-900
+- Microsoft SC-900
+- CompTIA Security+
+- AWS Cloud Practitioner
+
+## Platforms
+- TryHackMe
+- Coursera
+- Microsoft Learn
+- Cisco NetAcad
+- Udemy
+- AWS
+
+## Current Focus
+Building a strong cybersecurity foundation through practical labs, documentation, and continuous learning.
